@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I'm+Rohit+Kumar;Python+Developer+)](https://git.io/typing-svg            # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I'm+Rohit+Kumar;Python+Developer+)](https://git.io/typing-svg)                                                                                                                                                                               # 💫 About Me:
 <br>🔭 I’m currently working on web dev<br>👯 I’m looking to collaborate on open source project
 
 
